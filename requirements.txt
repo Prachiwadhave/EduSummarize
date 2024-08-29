@@ -1,0 +1,9 @@
+streamlit
+transformers
+T5ForConditionalGeneration
+T5Tokenizer
+PyPDF2
+requests
+bs4
+BeautifulSoup
+sklearn
