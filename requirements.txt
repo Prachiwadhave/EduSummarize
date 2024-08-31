@@ -5,3 +5,4 @@ requests
 bs4
 scikit-learn
 torch
+sentencepiece
